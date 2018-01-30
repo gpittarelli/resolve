@@ -1,5 +1,5 @@
 {
-  "name": "@gpittarelli/resolve",
+  "name": "@ineedthis/resolve",
   "description": "resolve like require.resolve() on behalf of files asynchronously and synchronously",
   "version": "1.6.0",
   "repository": {
